@@ -1,6 +1,6 @@
-# *Project title*
+# *ION Core*
 
-*Short description of your project, in one or two sentences.* 
+*The Home of all things ION.* 
 
 ## Setup 
 
